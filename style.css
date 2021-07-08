@@ -1488,7 +1488,7 @@ h2{
 .imn{width:80px;}
 
 .logg {margin-top: -43px;}
-					  .carousel-indicators li {display: none;}	 
+.carousel-indicators li {display: none !important;}						   
 
 				}
 
